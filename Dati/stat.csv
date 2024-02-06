@@ -1,0 +1,176 @@
+id,Name,Country,Height,Weight,Age,Birthday,Current rank,Higher rank,sex,plays,match win,match lose,titles,Career Total
+0,ajla tomljanovic, Australia,180 ,67.0,29,1993-07-05,34.0,33,woman, right,387,292,0,5650758.0
+1,ann li, USA,160 ,50.0,22,2000-06-26,167.0,44,woman, right,158,105,1,1486588.0
+2,clara tauson, Denmark,,,20,2002-12-21,138.0,33,woman, right,165,61,3,1123352.0
+3,emma raducanu, Great Britain,,,20,2002-11-13,77.0,10,woman, right,112,51,1,3538908.0
+4,naomi osaka, Japan,180 ,69.0,25,1997-10-16,65.0,1,woman, right,285,157,7,21177252.0
+5,alison riske, USA,175 ,66.0,32,1990-03-07,55.0,18,woman, right,420,341,3,6538253.0
+6,alison van uytvanck, Belgium,173 ,63.0,28,1994-03-26,76.0,37,woman, right,385,260,7,4072962.0
+7,alize cornet, France,173 ,60.0,33,1990-01-22,58.0,11,woman, right,555,439,6,9638241.0
+8,anastasia pavlyuchenkova, Russia,177 ,72.0,31,1991-03-07,846.0,11,woman, right,465,323,12,12346349.0
+9,andrea petkovic, Germany,180 ,69.0,35,1987-09-09,,9,woman, right,547,380,7,8829248.0
+10,anett kontaveit, Estonia,174 ,65.0,27,1995-12-24,18.0,2,woman, right,411,204,6,7804775.0
+11,angelique kerber, Germany,173 ,68.0,35,1988-01-18,106.0,1,woman, left,701,372,16,31886468.0
+12,arantxa rus, Netherlands,180 ,65.0,32,1990-12-13,112.0,61,woman, left,639,393,0,2731329.0
+13,aryna sabalenka, Belarus,182 ,80.0,24,1998-05-05,2.0,2,woman, right,323,163,13,12174910.0
+14,ashleigh barty, Australia,166 ,62.0,26,1996-04-24,,1,woman, right,318,108,15,23829070.0
+15,barbora krejcikova, Czech Republic,178 ,62.0,27,1995-12-18,30.0,2,woman, right,395,206,5,8754074.0
+16,barbora strycova, Czech Republic,164 ,60.0,36,1986-03-28,,16,woman, right,604,434,2,12057534.0
+17,belinda bencic, Switzerland,175 ,63.0,25,1997-10-03,9.0,4,woman, right,392,202,8,10620404.0
+18,bethanie mattek, USA,168 ,66.0,37,1985-03-23,,30,woman, right,378,319,25,8144409.0
+19,bianca andreescu, Canada,170 ,60.0,22,2000-06-16,42.0,4,woman, right,181,79,4,8197463.0
+20,camila giorgi, Italy,168 ,54.0,31,1991-12-30,69.0,26,woman, right,410,304,3,5578595.0
+21,caroline garcia, France,177 ,61.0,29,1993-10-16,5.0,4,woman, right,433,322,11,15064141.0
+22,christina mchale, USA,170 ,62.0,30,1992-11-05,,24,woman, right,399,351,1,5045711.0
+23,cori gauff, USA,176 ,59.0,18,2004-03-13,6.0,4,woman, right,132,67,3,5550091.0
+24,coco vandeweghe, USA,185 ,70.0,31,1991-06-12,133.0,9,woman, right,352,295,5,8010028.0
+25,danielle collins, USA,178 ,64.0,29,1993-12-13,40.0,7,woman, right,217,133,3,5845444.0
+26,daria kasatkina, Russia,170 ,62.0,25,1997-07-05,8.0,8,woman, right,308,172,6,9074284.0
+27,donna vekic, Croatia,179 ,64.0,26,1996-06-28,33.0,19,woman, right,343,249,3,5536990.0
+28,ekaterina alexandrova, Russia,180 ,66.0,28,1994-11-15,17.0,17,woman, right,422,240,3,4205740.0
+29,elena rybakina, Kazakhstan,184 ,73.0,23,1999-06-17,10.0,10,woman, right,253,122,3,6360958.0
+30,elina svitolina, Ukraine,174 ,60.0,28,1994-12-09,374.0,3,woman, right,462,239,16,21418949.0
+31,elise mertens, Belgium,179 ,67.0,27,1995-11-17,32.0,12,woman, right,398,223,7,10941643.0
+32,eugenie bouchard, Canada,178 ,61.0,28,1994-02-25,314.0,5,woman, right,312,230,1,6760029.0
+33,garbine muguruza, Spain,182 ,73.0,29,1993-08-10,82.0,1,woman, right,469,251,10,24722141.0
+34,heather watson, Great Britain,170 ,64.0,30,1992-05-19,160.0,38,woman, right,401,315,4,5059299.0
+35,iga swiatek, Poland,176 ,65.0,21,2001-05-31,1.0,1,woman, right,236,60,11,14735077.0
+36,irina begu, Romania,181 ,67.0,32,1990-08-26,27.0,22,woman, right,501,333,6,7035859.0
+37,jasmine paolini, Italy,160 ,60.0,27,1996-04-01,66.0,44,woman, right,328,233,2,1806854.0
+38,jelena ostapenko, Latvia,177 ,68.0,25,1997-08-06,12.0,5,woman, right,335,204,5,11775318.0
+39,jennifer brady, USA,178 ,68.0,27,1995-12-04,,13,woman, right,263,172,1,4644655.0
+40,jessica pegula, USA,170 ,70.0,28,1994-02-24,4.0,3,woman, right,370,223,2,6415356.0
+41,jil teichmann, Switzerland,170 ,80.0,25,1997-07-15,28.0,21,woman, left,268,193,2,2864031.0
+42,kaia kanepi, Estonia,181 ,74.0,37,1985-10-06,47.0,15,woman, right,571,333,4,7970794.0
+43,karolina pliskova, Czech Republic,186 ,72.0,30,1992-03-21,20.0,1,woman, right,642,356,16,24294595.0
+44,kirsten flipkens, Belgium,165 ,55.0,37,1986-10-01,273.0,13,woman, right,606,436,2,6138303.0
+45,kristina mladenovic, France,184 ,60.0,29,1993-05-14,145.0,10,woman, right,422,375,1,13123659.0
+46,leylah fernandez, Canada,158 ,48.0,20,2002-06-09,38.0,13,woman, left,135,86,2,3232371.0
+47,madison keys, USA,178 ,66.0,27,1995-02-17,24.0,7,woman, right,345,194,6,14960412.0
+48,maria sakkari, Greece,172 ,62.0,27,1995-07-25,7.0,3,woman, right,424,276,1,8052028.0
+49,mayar sherif, Egypt,,,26,1996-05-05,50.0,44,woman, right,228,106,3,1008183.0
+50,nicole gibbs, USA,168 ,59.0,29,1993-03-03,,68,woman, right,314,226,0,1839720.0
+51,ons jabeur, Tunisia,167 ,66.0,28,1994-08-28,3.0,2,woman, right,417,224,3,9184743.0
+52,paula badosa, Spain,180 ,72.0,25,1997-11-15,21.0,2,woman, right,322,177,3,5221216.0
+53,petra kvitova, Czech Republic,183 ,70.0,32,1990-08-03,13.0,2,woman, left,641,284,30,34763651.0
+54,petra martic, Croatia,181 ,63.0,32,1991-01-19,36.0,14,woman, right,424,299,3,7250018.0
+55,polona hercog, Slovenia,185 ,70.0,32,1991-01-20,756.0,35,woman, right,463,319,3,4282796.0
+56,samantha stosur, Australia,172 ,65.0,38,1984-03-30,,4,woman, right,590,447,9,20051140.0
+57,sara sorribes tormo, Spain,176 ,69.0,26,1996-08-10,74.0,32,woman, right,372,236,1,3384811.0
+58,serena williams, USA,175 ,70.0,41,1981-09-26,,1,woman, right,866,157,74,94816730.0
+59,shelby rogers, USA,175 ,70.0,30,1992-10-13,45.0,30,woman, right,306,249,0,4942487.0
+60,shuai peng, China,173 ,61.0,37,1986-08-01,,14,woman, right,495,321,4,9617653.0
+61,simona halep, Romania,168 ,60.0,31,1991-09-27,15.0,1,woman, right,592,240,24,40203437.0
+62,sloane stephens, USA,170 ,61.0,29,1993-03-20,39.0,3,woman, right,359,260,7,17223760.0
+63,sofia kenin, USA,170 ,57.0,24,1998-11-14,207.0,4,woman, right,260,158,5,8070995.0
+64,sorana cirstea, Romania,176 ,59.0,32,1990-07-04,61.0,21,woman, right,513,390,2,7475507.0
+65,tamara zidansek, Slovenia,167 ,80.0,25,1997-12-26,132.0,22,woman, right,290,149,3,2697774.0
+66,venus williams, USA,185 ,72.0,42,1980-06-17,659.0,1,woman, right,805,277,47,42403103.0
+67,vera zvonareva, Russia,172 ,59.0,38,1984-07-09,431.0,2,woman, right,568,295,12,15567264.0
+68,veronika kudermetova, Russia,175 ,63.0,25,1997-04-24,11.0,9,woman, right,315,206,8,4918085.0
+69,victoria azarenka, Belarus,180 ,60.0,33,1989-07-31,16.0,1,woman, right,605,233,21,34900323.0
+70,alexei popyrin, Australia,196 ,78.0,23,1999-05-08,90.0,59,man, right,217,179,1,2619507.0
+71,carlos alcaraz, Spain,185 ,72.0,19,2003-05-05,2.0,1,man, right,173,55,7,11829642.0
+72,casper ruud, Norway,183 ,77.0,24,1998-12-22,4.0,2,man, right,327,188,9,13291561.0
+73,jenson brooksby, USA,188 ,82.0,22,2000-10-26,38.0,33,man, right,157,84,0,1843266.0
+74,taylor fritz, USA,193 ,86.0,25,1997-10-28,8.0,8,man, right,326,212,4,10827901.0
+75,adrian mannarino, France,180 ,79.0,34,1988-06-29,58.0,22,man, left,646,508,2,9681532.0
+76,albert ramos vinolas, Spain,188 ,76.0,35,1988-01-17,37.0,17,man, left,716,551,4,9865134.0
+77,alejandro davidovich fokina, Spain,183 ,80.0,23,1999-05-06,32.0,27,man, right,221,156,0,3522215.0
+78,alex de minaur, Australia,183 ,69.0,23,1999-02-17,25.0,15,man, right,286,165,6,7944797.0
+79,alexander bublik, Kazakhstan,198 ,77.0,25,1997-06-17,36.0,30,man, right,309,219,1,4281652.0
+80,alexander zverev, Germany,198 ,90.0,25,1997-04-20,14.0,2,man, right,439,226,19,33112255.0
+81,aljaz bedene, Slovenia,183 ,73.0,33,1989-07-18,341.0,43,man, right,496,279,0,5153647.0
+82,andreas seppi, Italy,191 ,78.0,38,1984-02-21,403.0,18,man, right,690,609,3,11816212.0
+83,andrey rublev, Russia,188 ,70.0,25,1997-10-20,5.0,5,man, right,397,218,12,14991208.0
+84,andy murray, Great Britain,190 ,83.0,35,1987-05-15,64.0,1,man, right,840,290,46,63254625.0
+85,arthur rinderknech, France,196 ,86.0,27,1995-07-23,70.0,42,man, right,254,153,0,1766680.0
+86,aslan karatsev, Russia,185 ,85.0,29,1993-04-09,98.0,14,man, right,420,281,3,3401674.0
+87,ben shelton, USA, ,,20,2002-09-10,44.0,44,man, right,66,22,0,
+88,benjamin bonzi, France,185 ,76.0,26,1996-09-06,45.0,44,man, right,389,229,0,1829072.0
+89,benoit paire, France,196 ,80.0,33,1989-08-05,216.0,18,man, right,563,483,3,9984911.0
+90,bernard tomic, Australia,196 ,91.0,30,1992-10-21,432.0,17,man, right,363,289,4,6301541.0
+91,borna coric, Croatia,188 ,85.0,26,1996-11-14,23.0,12,man, right,301,212,3,10259405.0
+92,botic van de zandschulp, Netherlands,188 ,83.0,27,1995-04-10,35.0,22,man, right,327,170,0,2525131.0
+93,cameron norrie, Great Britain,188 ,82.0,27,1995-08-23,11.0,8,man, left,337,190,4,8206622.0
+94,cristian garin, Chile,185 ,85.0,26,1996-05-30,102.0,17,man, right,356,240,5,5016063.0
+95,daniel altmaier, Germany,191 ,88.0,24,1998-12-09,91.0,53,man, right,355,204,0,1212491.0
+96,daniel evans, Great Britain,175 ,75.0,32,1990-05-23,30.0,22,man, right,582,362,1,6370157.0
+97,daniil medvedev, Russia,198 ,83.0,26,1996-11-02,12.0,1,man, right,439,187,15,26632531.0
+98,david goffin, Belgium,180 ,70.0,32,1990-07-12,41.0,7,man, right,606,338,6,16501225.0
+99,denis istomin, Uzbekistan,188 ,85.0,36,1986-07-09,492.0,33,man, right,627,524,2,6330433.0
+100,denis shapovalov, Canada,185 ,75.0,23,1999-04-15,27.0,10,man, left,276,175,1,10163308.0
+101,diego schwartzman, Argentina,170 ,64.0,30,1992-08-16,28.0,8,man, right,609,358,5,12896389.0
+102,dominic thiem, Austria,185 ,79.0,29,1993-03-09,99.0,3,man, right,493,257,17,29284703.0
+103,dominik koepfer, Germany,180 ,79.0,28,1994-04-29,228.0,50,man, left,257,175,0,2306450.0
+104,dusan lajovic, Serbia,183 ,83.0,32,1990-06-30,89.0,23,man, right,541,425,1,7863588.0
+105,dustin brown, Germany,196 ,78.0,38,1984-08-12,,64,man, right,694,533,0,3071016.0
+106,fabio fognini, Italy,178 ,79.0,35,1987-05-24,62.0,9,man, right,635,489,9,17510546.0
+107,federico delbonis, Argentina,193 ,90.0,32,1990-05-10,132.0,33,man, left,552,389,2,6011889.0
+108,feliciano lopez, Spain,188 ,88.0,41,1981-09-20,103.0,12,man, left,623,586,7,18618224.0
+109,felix auger aliassime, Canada,193 ,88.0,22,2000-08-08,7.0,6,man, right,292,166,4,10209935.0
+110,fernando verdasco, Spain,188 ,90.0,39,1983-11-15,123.0,7,man, left,733,538,7,18257980.0
+111,frances tiafoe, USA,188 ,86.0,25,1998-01-20,15.0,15,man, right,316,221,1,7777305.0
+112,gael monfils, France,193 ,85.0,36,1986-01-09,209.0,6,man, right,632,351,11,20983413.0
+113,gilles simon, France,183 ,70.0,38,1984-12-27,156.0,6,man, right,773,559,14,16045734.0
+114,grigor dimitrov, Bulgaria,191 ,81.0,31,1991-05-16,29.0,3,man, right,549,336,8,22062069.0
+115,guido pella, Argentina,183 ,79.0,32,1990-05-17,101.0,20,man, left,502,338,2,5732990.0
+116,henri laaksonen, Switzerland,185 ,78.0,30,1992-03-31,194.0,84,man, right,460,379,0,2296722.0
+117,holger rune, Denmark,185 ,68.0,19,2003-04-29,9.0,9,man, right,171,85,3,3012818.0
+118,hubert hurkacz, Poland,196 ,81.0,25,1997-11-02,10.0,9,man, right,322,198,5,9045351.0
+119,ivo karlovic, Croatia,211 ,104.0,43,1979-02-28,,14,man, right,574,477,8,10160232.0
+120,jack sock, USA,191 ,88.0,30,1992-09-24,138.0,8,man, right,336,255,4,11810648.0
+121,james duckworth, Australia,183 ,82.0,31,1992-01-21,163.0,46,man, right,406,265,0,3203241.0
+122,jan lennard struff, Germany,193 ,92.0,32,1990-04-25,153.0,29,man, right,589,417,0,7712169.0
+123,jannik sinner, Italy,188 ,76.0,21,2001-08-16,17.0,9,man, right,222,109,7,6606753.0
+124,jeremy chardy, France,188 ,75.0,35,1987-12-02,628.0,25,man, right,519,443,1,10536548.0
+125,jiri vesely, Czech Republic,198 ,94.0,29,1993-10-07,109.0,35,man, left,432,300,2,5554625.0
+126,joao sousa, Portugal,185 ,74.0,33,1989-03-30,84.0,28,man, right,580,497,4,8100715.0
+127,john isner, USA,208 ,108.0,37,1985-04-26,42.0,8,man, right,560,354,18,21780462.0
+128,john millman, Australia,183 ,79.0,33,1989-06-14,140.0,33,man, right,470,327,1,5303960.0
+129,jo wilfried tsonga, France,188 ,93.0,37,1985-04-17,,5,man, right,687,327,19,22458018.0
+130,karen khachanov, Russia,198 ,87.0,26,1996-05-21,13.0,8,man, right,367,251,4,12245609.0
+131,kei nishikori, Japan,178 ,73.0,33,1989-12-29,,4,man, right,575,261,12,25065492.0
+132,kevin anderson, RSA,203 ,94.0,36,1986-05-18,,5,man, right,591,355,7,17728382.0
+133,kyle edmund, Great Britain,188 ,83.0,28,1995-08-01,539.0,14,man, right,331,197,2,5874033.0
+134,laslo djere, Serbia,188 ,82.0,27,1995-02-06,65.0,27,man, right,355,245,2,3932216.0
+135,leonardo mayer, Argentina,191 ,80.0,35,1987-05-15,,21,man, right,488,384,2,7035294.0
+136,lloyd harris, RSA,193 ,80.0,25,1997-02-24,175.0,31,man, right,330,170,0,3119396.0
+137,lorenzo musetti, Italy,185 ,75.0,20,2002-03-03,18.0,18,man, right,165,111,2,2984914.0
+138,lorenzo sonego, Italy,191 ,76.0,27,1995-11-05,51.0,21,man, right,348,231,3,4326047.0
+139,lucas pouille, France,185 ,84.0,28,1994-02-23,334.0,10,man, right,336,252,5,8106426.0
+140,mackenzie mcdonald, USA,178 ,73.0,27,1995-04-16,63.0,48,man, right,285,209,1,3706853.0
+141,marc andrea huesler, Switzerland,196 ,88.0,26,1996-06-24,53.0,51,man, left,254,200,1,919957.0
+142,marcos giron, USA,180 ,77.0,29,1993-07-24,57.0,49,man, right,380,241,0,2641382.0
+143,marin cilic, Croatia,198 ,89.0,34,1988-09-28,21.0,3,man, right,697,377,20,31200667.0
+144,marton fucsovics, Hungary,188 ,82.0,30,1992-08-02,71.0,31,man, right,459,331,1,5457771.0
+145,matteo berrettini, Italy,196 ,95.0,26,1996-12-04,22.0,6,man, right,327,155,7,10794890.0
+146,mikael ymer, Sweden,183 ,75.0,24,1998-09-09,60.0,60,man, right,264,153,0,2215745.0
+147,milos raonic, Canada,196 ,98.0,32,1990-12-27,,3,man, right,495,247,8,20218982.0
+148,nick kyrgios, Australia,193 ,85.0,27,1995-04-27,20.0,13,man, right,294,158,8,12478415.0
+149,nikoloz basilashvili, Georgia,185 ,79.0,30,1992-02-23,87.0,16,man, right,459,389,5,8588428.0
+150,novak djokovic, Serbia,187 ,80.0,35,1987-05-22,1.0,1,man, right,1186,247,95,164786653.0
+151,pablo andujar, Spain,180 ,80.0,37,1986-01-23,152.0,32,man, right,593,497,4,6971803.0
+152,pablo carreno busta, Spain,188 ,78.0,31,1991-12-07,16.0,10,man, right,596,326,7,15106842.0
+153,pablo cuevas, Uruguay,180 ,78.0, ,,274.0,19,man, right,655,405,6,9643411.0
+154,pierre hugues herbert, France,188 ,75.0,31,1991-03-18,269.0,36,man, right,457,331,0,8973865.0
+155,rafael nadal, Spain,185 ,85.0,36,1986-03-06,6.0,1,man, left,1175,252,92,134529921.0
+156,reilly opelka, USA,211 ,102.0,25,1997-08-28,49.0,17,man, right,220,170,4,4224870.0
+157,richard gasquet, France,183 ,79.0,36,1986-06-18,46.0,7,man, right,759,425,17,19862154.0
+158,roberto bautista agut, Spain,183 ,75.0,34,1988-04-14,24.0,9,man, right,752,445,11,16645531.0
+159,robin haase, Netherlands,191 ,77.0,35,1987-06-04,242.0,33,man, right,609,466,3,7850857.0
+160,roger federer, Switzerland,187 ,85.0,41,1981-08-08,,1,man, right,1298,296,105,130594339.0
+161,ryan harrison, USA,185 ,84.0,30,1992-07-05,617.0,40,man, right,376,319,1,4806463.0
+162,sam querrey, USA,198 ,95.0,35,1987-07-10,340.0,11,man, right,500,394,10,13679265.0
+163,sebastian korda, USA,193 ,75.0,22,2000-05-07,26.0,26,man, right,204,127,1,2732387.0
+164,soon woo kwon, South Korea,180 ,72.0,25,1997-02-12,61.0,52,man, right,274,179,2,2306955.0
+165,stefanos tsitsipas, Greece,193 ,89.0,24,1998-12-08,3.0,3,man, right,451,209,10,23655204.0
+166,stan wawrinka, Switzerland,182 ,79.0,37,1985-03-28,135.0,3,man, right,686,396,16,35433987.0
+167,steve johnson, USA,188 ,86.0,33,1989-12-24,128.0,21,man, right,388,300,4,7840167.0
+168,taro daniel, Japan,191 ,80.0,30,1993-01-27,108.0,64,man, right,552,359,1,3005071.0
+169,tennys sandgren, USA,188 ,88.0,31,1991-07-22,249.0,41,man, right,434,312,1,3472346.0
+170,thanasi kokkinakis, Australia,193 ,84.0,26,1996-10-04,141.0,69,man, right,251,158,1,2811627.0
+171,tim van rijthoven, Netherlands,188 ,89.0,25,1997-04-24,107.0,101,man, right,239,142,1,701812.0
+172,tommy paul, USA,185 ,82.0,25,1997-05-17,19.0,19,man, right,350,214,1,3709970.0
+173,ugo humbert, France,188 ,73.0,24,1998-06-26,86.0,25,man, left,260,174,3,3364526.0
+174,vasek pospisil, Canada,193 ,88.0,32,1990-06-23,113.0,25,man, right,528,373,0,6962414.0

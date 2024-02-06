@@ -1,0 +1,896 @@
+,id,Type,Sponsor
+0,0,OtherSponsor,NoSweat
+1,0,Apparel,Original Penguin
+2,0,Shoes,K-Swiss
+3,0,Racket,Wilson
+4,5,OtherSponsor,Gomacro
+5,5,Apparel,Lotto
+6,5,Shoes,K-Swiss
+7,5,Racket,Wilson
+8,7,OtherSponsor,
+9,7,Apparel,Lotto
+10,7,Shoes,Lotto
+11,7,Racket,Babolat
+12,8,OtherSponsor,
+13,8,Apparel,Lacoste
+14,8,Shoes,Lacoste
+15,8,Racket,Wilson
+16,9,OtherSponsor,
+17,9,Apparel,Adidas
+18,9,Shoes,Adidas
+19,9,Racket,Wilson
+20,11,OtherSponsor,Porsche
+21,11,Apparel,Adidas
+22,11,Shoes,Adidas
+23,11,Racket,Yonex
+24,1,OtherSponsor,
+25,1,Apparel,Fila
+26,1,Shoes,Fila
+27,1,Racket,Dunlop
+28,12,OtherSponsor,
+29,12,Apparel,Hydrogen
+30,12,Shoes,Nike
+31,12,Racket,Wilson
+32,13,OtherSponsor,
+33,13,Apparel,Nike
+34,13,Shoes,Nike
+35,13,Racket,Wilson
+36,16,OtherSponsor,Toyota
+37,16,Apparel,Nike
+38,16,Shoes,Nike
+39,16,Racket,Wilson
+40,18,OtherSponsor,Civana
+41,18,Apparel,Lucky in Love
+42,18,Shoes,Adidas
+43,18,Racket,Babolat
+44,20,OtherSponsor,Giomila
+45,20,Apparel,Own brand
+46,20,Shoes,Adidas
+47,20,Racket,Yonex
+48,22,OtherSponsor,Buddy Fruits
+49,22,Apparel,Lacoste
+50,22,Shoes,Head
+51,22,Racket,Head
+52,2,OtherSponsor,
+53,2,Apparel,Adidas
+54,2,Shoes,Adidas
+55,2,Racket,Yonex
+56,23,OtherSponsor,Barilla
+57,23,Apparel,New Balance
+58,23,Shoes,New Balance
+59,23,Racket,Head
+60,24,OtherSponsor,
+61,24,Apparel,Asics
+62,24,Shoes,Asics
+63,24,Racket,Yonex
+64,25,OtherSponsor,Dynasty Financial Partners
+65,25,Apparel,New Balance
+66,25,Shoes,New Balance
+67,25,Racket,Babolat
+68,26,OtherSponsor,Artengo
+69,26,Apparel,Adidas
+70,26,Shoes,Adidas
+71,26,Racket,Artengo
+72,28,OtherSponsor,
+73,28,Apparel,Fila
+74,28,Shoes,Fila
+75,28,Racket,Wilson
+76,29,OtherSponsor,Bank RBK
+77,29,Apparel,Adidas
+78,29,Shoes,Adidas
+79,29,Racket,Yonex
+80,32,OtherSponsor,Slinger Bag
+81,32,Apparel,New Balance
+82,32,Shoes,New Balance
+83,32,Racket,Yonex
+84,34,OtherSponsor,
+85,34,Apparel,New Balance
+86,34,Shoes,New Balance
+87,34,Racket,Babolat
+88,35,OtherSponsor,PZU
+89,35,Apparel,Asics
+90,35,Shoes,Asics
+91,35,Racket,Tecnifibre
+92,36,OtherSponsor,
+93,36,Apparel,Fila
+94,36,Shoes,Fila
+95,36,Racket,Babolat
+96,37,OtherSponsor,DS3 Crossback
+97,37,Apparel,Asics
+98,37,Shoes,Asics
+99,37,Racket,Yonex
+100,38,OtherSponsor,Own logo
+101,38,Apparel,DK ONE
+102,38,Shoes,Adidas
+103,38,Racket,Wilson
+104,40,OtherSponsor,Ready
+105,40,Apparel,Adidas
+106,40,Shoes,Adidas
+107,40,Racket,Yonex
+108,42,OtherSponsor,iCourt
+109,42,Apparel,iCourt
+110,42,Shoes,Asics
+111,42,Racket,Wilson
+112,43,OtherSponsor,Premiot
+113,43,Apparel,Fila
+114,43,Shoes,Fila
+115,43,Racket,Babolat
+116,44,OtherSponsor,
+117,44,Apparel,Mizuno
+118,44,Shoes,Mizuno
+119,44,Racket,Babolat
+120,45,OtherSponsor,
+121,45,Apparel,Adidas
+122,45,Shoes,Adidas
+123,45,Racket,Wilson
+124,50,OtherSponsor,
+125,50,Apparel,New Balance
+126,50,Shoes,New Balance
+127,50,Racket,Wilson
+128,52,OtherSponsor,
+129,52,Apparel,Nike
+130,52,Shoes,Nike
+131,52,Racket,Wilson
+132,54,OtherSponsor,
+133,54,Apparel,J.Lindeberg
+134,54,Shoes,Asics
+135,54,Racket,Wilson
+136,55,OtherSponsor,
+137,55,Apparel,Nike
+138,55,Shoes,Nike
+139,55,Racket,Wilson
+140,56,OtherSponsor,
+141,56,Apparel,Asics
+142,56,Shoes,Asics
+143,56,Racket,Head
+144,60,OtherSponsor,Hologic
+145,60,Apparel,Adidas
+146,60,Shoes,Adidas
+147,60,Racket,Prince
+148,61,OtherSponsor,Hublot
+149,61,Apparel,Nike
+150,61,Shoes,Nike
+151,61,Racket,Wilson
+152,62,OtherSponsor,Motorola
+153,62,Apparel,Nike
+154,62,Shoes,Nike
+155,62,Racket,Head
+156,63,OtherSponsor,Motorola
+157,63,Apparel,FP Movement
+158,63,Shoes,Fila
+159,63,Racket,Babolat
+160,64,OtherSponsor,
+161,64,Apparel,New Balance
+162,64,Shoes,New Balance
+163,64,Racket,Wilson
+164,65,OtherSponsor,
+165,65,Apparel,Joma
+166,65,Shoes,Joma
+167,65,Racket,Yonex
+168,67,OtherSponsor,
+169,67,Apparel,Bidi Badu
+170,67,Shoes,Adidas
+171,67,Racket,Prince
+172,68,OtherSponsor,Tatneft
+173,68,Apparel,EA7
+174,68,Shoes,EA7
+175,68,Racket,Wilson
+176,75,OtherSponsor,
+177,75,Apparel,Hydrogen
+178,75,Shoes,Nike
+179,75,Racket,Babolat
+180,76,OtherSponsor,
+181,76,Apparel,Joma
+182,76,Shoes,Joma
+183,76,Racket,Babolat
+184,77,OtherSponsor,Adoptas.org
+185,77,Apparel,Diadora
+186,77,Shoes,Diadora
+187,77,Racket,Head
+188,78,OtherSponsor,eniQ
+189,78,Apparel,Asics
+190,78,Shoes,Asics
+191,78,Racket,Wilson
+192,79,OtherSponsor,
+193,79,Apparel,Yoxoi
+194,79,Shoes,
+195,79,Racket,Yonex
+196,80,OtherSponsor,TMGM
+197,80,Apparel,Adidas
+198,80,Shoes,Adidas
+199,80,Racket,Head
+200,70,OtherSponsor,ANZ Hot Shots
+201,70,Apparel,Fila
+202,70,Shoes,Nike
+203,70,Racket,Head
+204,81,OtherSponsor,
+205,81,Apparel,Neptune
+206,81,Shoes,Lotto
+207,81,Racket,Wilson
+208,83,OtherSponsor,4 Slam Tennis
+209,83,Apparel,Nike
+210,83,Shoes,Nike
+211,83,Racket,Wilson
+212,84,OtherSponsor,
+213,84,Apparel,AMC
+214,84,Shoes,Under Armour
+215,84,Racket,Head
+216,86,OtherSponsor,
+217,86,Apparel,Hydrogen
+218,86,Shoes,Asics
+219,86,Racket,Head
+220,87,OtherSponsor,
+221,87,Apparel,Nike
+222,87,Shoes,Nike
+223,87,Racket,Yonex
+224,88,OtherSponsor,
+225,88,Apparel,Lotto
+226,88,Shoes,Lotto
+227,88,Racket,Wilson
+228,89,OtherSponsor,
+229,89,Apparel,Celio
+230,89,Shoes,Babolat
+231,89,Racket,Babolat
+232,90,OtherSponsor,
+233,90,Apparel,Mizuno
+234,90,Shoes,Mizuno
+235,90,Racket,Head
+236,71,OtherSponsor,Rolex
+237,71,Apparel,Nike
+238,71,Shoes,Nike
+239,71,Racket,Babolat
+240,95,OtherSponsor,
+241,95,Apparel,Yonex
+242,95,Shoes,Yonex
+243,95,Racket,Yonex
+244,96,OtherSponsor,HaloITSM
+245,96,Apparel,LUKE
+246,96,Shoes,Asics
+247,96,Racket,Wilson
+248,97,OtherSponsor,Bovet
+249,97,Apparel,Lacoste
+250,97,Shoes,Lacoste
+251,97,Racket,Tecnifibre
+252,98,OtherSponsor,Volvo
+253,98,Apparel,Asics
+254,98,Shoes,Asics
+255,98,Racket,Wilson
+256,99,OtherSponsor,
+257,99,Apparel,Lotto
+258,99,Shoes,Lotto
+259,99,Racket,Tecnifibre
+260,103,OtherSponsor,
+261,103,Apparel,Lotto
+262,103,Shoes,Lotto
+263,103,Racket,Head
+264,104,OtherSponsor,Tio Gelato
+265,104,Apparel,Australian
+266,104,Shoes,Asics
+267,104,Racket,Wilson
+268,105,OtherSponsor,
+269,105,Apparel,Hydrogen
+270,105,Shoes,
+271,105,Racket,Babolat
+272,107,OtherSponsor,
+273,107,Apparel,Babolat
+274,107,Shoes,Babolat
+275,107,Racket,Babolat
+276,108,OtherSponsor,
+277,108,Apparel,Joma
+278,108,Shoes,Joma
+279,108,Racket,Wilson
+280,109,OtherSponsor,A3 Surfaces
+281,109,Apparel,Adidas
+282,109,Shoes,Adidas
+283,109,Racket,Babolat
+284,110,OtherSponsor,Maui Jim
+285,110,Apparel,Adidas
+286,110,Shoes,Adidas
+287,110,Racket,Head
+288,112,OtherSponsor,eToro
+289,112,Apparel,Artengo
+290,112,Shoes,Asics
+291,112,Racket,Artengo
+292,113,OtherSponsor,
+293,113,Apparel,Adidas
+294,113,Shoes,Adidas
+295,113,Racket,Head
+296,115,OtherSponsor,
+297,115,Apparel,Fila
+298,115,Shoes,Fila
+299,115,Racket,Wilson
+300,116,OtherSponsor,
+301,116,Apparel,Head
+302,116,Shoes,Head
+303,116,Racket,Head
+304,117,OtherSponsor,Humanostics
+305,117,Apparel,Nike
+306,117,Shoes,Nike
+307,117,Racket,Babolat
+308,118,OtherSponsor,	Easypost
+309,118,Apparel,Yonex
+310,118,Shoes,Yonex
+311,118,Racket,Yonex
+312,119,OtherSponsor,
+313,119,Apparel,Mizuno
+314,119,Shoes,Mizuno
+315,119,Racket,Head
+316,120,OtherSponsor,
+317,120,Apparel,Lululemon
+318,120,Shoes,Babolat
+319,120,Racket,Babolat
+320,121,OtherSponsor,Go Markets
+321,121,Apparel,Australian
+322,121,Shoes,Adidas
+323,121,Racket,Babolat
+324,122,OtherSponsor,Delta
+325,122,Apparel,Diadora
+326,122,Shoes,Diadora
+327,122,Racket,Head
+328,124,OtherSponsor,Bastide Medical
+329,124,Apparel,Lacoste
+330,124,Shoes,New Balance
+331,124,Racket,Tecnifibre
+332,125,OtherSponsor,Bicz
+333,125,Apparel,Lotto
+334,125,Shoes,Lotto
+335,125,Racket,Wilson
+336,132,OtherSponsor,Guinot
+337,132,Apparel,Dunlop
+338,132,Shoes,Lotto
+339,132,Racket,Dunlop 
+340,134,OtherSponsor,
+341,134,Apparel,Lotto
+342,134,Shoes,Lotto
+343,134,Racket,Wilson
+344,135,OtherSponsor,
+345,135,Apparel,Lotto
+346,135,Shoes,Lotto
+347,135,Racket,Wilson
+348,136,OtherSponsor,
+349,136,Apparel,Lotto
+350,136,Shoes,Lotto
+351,136,Racket,Yonex
+352,140,OtherSponsor,LaceClips
+353,140,Apparel,Fila
+354,140,Shoes,Fila
+355,140,Racket,Wilson
+356,141,OtherSponsor,Fromm and Comtrade
+357,141,Apparel,Fourteen
+358,141,Shoes,Asics
+359,141,Racket,Wilson
+360,142,OtherSponsor,
+361,142,Apparel,Leorever
+362,142,Shoes,K-Swiss
+363,142,Racket,Yonex
+364,145,OtherSponsor,Red Bull
+365,145,Apparel,Hugo Boss
+366,145,Shoes,Asics
+367,145,Racket,Head
+368,146,OtherSponsor,
+369,146,Apparel,Adidas
+370,146,Shoes,Adidas
+371,146,Racket,Babolat
+372,149,OtherSponsor,Gerald Charles
+373,149,Apparel,EA7
+374,149,Shoes,Nike
+375,149,Racket,Head
+376,151,OtherSponsor,
+377,151,Apparel,Lacoste
+378,151,Shoes,Lacoste
+379,151,Racket,Prince
+380,153,OtherSponsor,
+381,153,Apparel,Lacoste
+382,153,Shoes,Asics
+383,153,Racket,Head
+384,154,OtherSponsor,
+385,154,Apparel,Lacoste
+386,154,Shoes,Nike
+387,154,Racket,Yonex
+388,156,OtherSponsor,Red Bull
+389,156,Apparel,Fila
+390,156,Shoes,Fila
+391,156,Racket,Wilson
+392,157,OtherSponsor,
+393,157,Apparel,Le Coq Sportif
+394,157,Shoes,Le Coq Sportif
+395,157,Racket,Head
+396,158,OtherSponsor,Villarreal FC
+397,158,Apparel,Lacoste
+398,158,Shoes,Mizuno
+399,158,Racket,Wilson
+400,159,OtherSponsor,Peugeot
+401,159,Apparel,Diadora
+402,159,Shoes,Diadora
+403,159,Racket,Head
+404,161,OtherSponsor,
+405,161,Apparel,Babolat
+406,161,Shoes,Babolat
+407,161,Racket,Babolat
+408,163,OtherSponsor,Motorola
+409,163,Apparel,Adidas
+410,163,Shoes,Adidas
+411,163,Racket,Wilson
+412,165,OtherSponsor,Red Bull
+413,165,Apparel,Adidas
+414,165,Shoes,Adidas
+415,165,Racket,Wilson
+416,167,OtherSponsor,Stout
+417,167,Apparel,Yonex
+418,167,Shoes,Yonex
+419,167,Racket,Yonex
+420,168,OtherSponsor,
+421,168,Apparel,Mizuno
+422,168,Shoes,Mizuno
+423,168,Racket,Babolat
+424,169,OtherSponsor,Powerful Foods
+425,169,Apparel,Yoxoi
+426,169,Shoes,Asics
+427,169,Racket,Dunlop
+428,170,OtherSponsor,SafetyCulure
+429,170,Apparel,Cotton On
+430,170,Shoes,Adidas
+431,170,Racket,Yonex
+432,171,OtherSponsor,
+433,171,Apparel,Indian Maharadja
+434,171,Shoes,
+435,171,Racket,Yonex
+436,172,OtherSponsor,
+437,172,Apparel,New Balance
+438,172,Shoes,New Balance
+439,172,Racket,Wilson
+440,173,OtherSponsor,
+441,173,Apparel,Lacoste
+442,173,Shoes,Lacoste
+443,173,Racket,Wilson
+444,6,OtherSponsor,Hubo
+445,6,OtherSponsor, Signum Pro
+446,6,OtherSponsor, AB Automotive
+447,6,OtherSponsor, Wcup
+448,6,Apparel,Fila
+449,6,Shoes,Fila
+450,6,Racket,Head
+451,10,OtherSponsor,Hotell Telegraaf
+452,10,OtherSponsor, Tallink
+453,10,OtherSponsor, Alexela
+454,10,Apparel,Lacoste
+455,10,Shoes,Lacoste
+456,10,Racket,Babolat
+457,14,OtherSponsor,Marriott Bonvoy
+458,14,OtherSponsor, Rado
+459,14,Apparel,Fila
+460,14,Shoes,Fila
+461,14,Racket,Head
+462,15,OtherSponsor,Nutridata
+463,15,OtherSponsor, Kine-MAX
+464,15,OtherSponsor, enervit
+465,15,Apparel,Head
+466,15,Shoes,Head
+467,15,Racket,Head
+468,17,OtherSponsor,Rolex
+469,17,OtherSponsor, Valora
+470,17,OtherSponsor, Corner Card
+471,17,OtherSponsor, Caran d'Ache
+472,17,Apparel,Nike
+473,17,Shoes,Nike
+474,17,Racket,Yonex
+475,19,OtherSponsor,Rolex
+476,19,OtherSponsor, Cadillac
+477,19,OtherSponsor, Sleep Country
+478,19,Apparel,Nike
+479,19,Shoes,Nike
+480,19,Racket,Head
+481,21,OtherSponsor,Etam
+482,21,OtherSponsor, OneStream
+483,21,Apparel,Asics
+484,21,Shoes,Asics
+485,21,Racket,Yonex
+486,27,OtherSponsor,Rosal
+487,27,OtherSponsor, Old Pilots
+488,27,OtherSponsor, FP Journe
+489,27,Apparel,Nike
+490,27,Shoes,Nike
+491,27,Racket,Yonex
+492,30,OtherSponsor,Superior Gulf and Spa Resort
+493,30,OtherSponsor, Poustovit
+494,30,OtherSponsor, Jan Niche Concept
+495,30,OtherSponsor, Hublot
+496,30,OtherSponsor, EAFIT
+497,30,Apparel,Nike
+498,30,Shoes,Nike
+499,30,Racket,Wilson
+500,31,OtherSponsor,Isdin
+501,31,OtherSponsor, etixx
+502,31,OtherSponsor, Luxilon
+503,31,OtherSponsor, Ledreact
+504,31,OtherSponsor, Versele-Laga
+505,31,Apparel,Lotto
+506,31,Shoes,Lotto
+507,31,Racket,Babolat
+508,3,OtherSponsor,British Airways
+509,3,OtherSponsor, Tiffany’s
+510,3,OtherSponsor, Dior
+511,3,OtherSponsor, Porsche
+512,3,OtherSponsor, Evian
+513,3,Apparel,Nike
+514,3,Shoes,Nike
+515,3,Racket,Wilson
+516,33,OtherSponsor,Rolex
+517,33,OtherSponsor, Maui Jim
+518,33,OtherSponsor, Caser Seguros
+519,33,Apparel,Adidas
+520,33,Shoes,Adidas
+521,33,Racket,Babolat
+522,39,OtherSponsor,Flex Seal
+523,39,OtherSponsor, ATP lab
+524,39,Apparel,Asics
+525,39,Shoes,Asics
+526,39,Racket,Babolat
+527,41,OtherSponsor,Fromm
+528,41,OtherSponsor, Corner Card
+529,41,Apparel,Lacoste
+530,41,Shoes,Asics
+531,41,Racket,Head
+532,46,OtherSponsor,Telcel
+533,46,OtherSponsor, Birchbox
+534,46,Apparel,Lululemon
+535,46,Shoes,Asics
+536,46,Racket,Babolat
+537,47,OtherSponsor,Evian
+538,47,OtherSponsor, Acuvue
+539,47,OtherSponsor, Volvo
+540,47,OtherSponsor, Kindness Wins
+541,47,Apparel,Nike
+542,47,Shoes,Nike
+543,47,Racket,Wilson
+544,48,OtherSponsor,Rolex
+545,48,OtherSponsor, Apivita
+546,48,OtherSponsor, Dior
+547,48,OtherSponsor, Nespresso
+548,48,OtherSponsor, National Bank of Greece
+549,48,OtherSponsor, Cosmote
+550,48,OtherSponsor, Aegean Airlines
+551,48,OtherSponsor, Replay
+552,48,OtherSponsor, Green Cola
+553,48,Apparel,Adidas
+554,48,Shoes,Adidas
+555,48,Racket,Wilson
+556,49,OtherSponsor,National Bank of Egypt
+557,49,OtherSponsor, Allianz Egypt
+558,49,OtherSponsor, Zed Egypt
+559,49,OtherSponsor, Vodafone
+560,49,OtherSponsor, Peugeot
+561,49,Apparel,Nike
+562,49,Shoes,Nike
+563,49,Racket,Wilson
+564,4,OtherSponsor,Nissan
+565,4,OtherSponsor, Workday
+566,4,OtherSponsor, Mastercard
+567,4,OtherSponsor, Louis Vuitton
+568,4,OtherSponsor, Levi’s
+569,4,OtherSponsor, Nissan
+570,4,OtherSponsor, TAG Heuer
+571,4,OtherSponsor, Beats
+572,4,OtherSponsor, Godaddy
+573,4,OtherSponsor, Morinaga
+574,4,OtherSponsor, Panasonic
+575,4,Apparel,Nike
+576,4,Shoes,Nike
+577,4,Racket,Yonex
+578,51,OtherSponsor,Tunisie Telecom
+579,51,OtherSponsor, Haval
+580,51,OtherSponsor, Qatar Airways
+581,51,Apparel,Lotto
+582,51,Shoes,Lotto
+583,51,Racket,Wilson
+584,53,OtherSponsor,TAG Heuer
+585,53,OtherSponsor, Audi
+586,53,OtherSponsor, Mattoni
+587,53,OtherSponsor, ALO Diamonds
+588,53,OtherSponsor, L�Occitane
+589,53,OtherSponsor, Unicredit
+590,53,OtherSponsor, Ceska Posta
+591,53,OtherSponsor, Right To Play
+592,53,Apparel,Nike
+593,53,Shoes,Nike
+594,53,Racket,Wilson
+595,57,OtherSponsor,Nara
+596,57,OtherSponsor, Castell�n Escenario Deportivo
+597,57,Apparel,Joma
+598,57,Shoes,Joma
+599,57,Racket,Wilson
+600,58,OtherSponsor,Audemars Piguet
+601,58,OtherSponsor, Away
+602,58,OtherSponsor, Beats
+603,58,OtherSponsor, Berlei
+604,58,OtherSponsor, Bumble
+605,58,OtherSponsor, Gatorade
+606,58,OtherSponsor, Gucci
+607,58,OtherSponsor, Lincoln
+608,58,OtherSponsor, Michelob ULTRA
+609,58,OtherSponsor, Nintendo
+610,58,OtherSponsor, Stuart Weitzmann
+611,58,OtherSponsor, Ubrelvy
+612,58,Apparel,Nike
+613,58,Shoes,Nike
+614,58,Racket,Wilson
+615,59,OtherSponsor,Lyvecap
+616,59,OtherSponsor, TennisONE
+617,59,OtherSponsor, Tomgirl Kitchen
+618,59,Apparel,Fila
+619,59,Shoes,Fila
+620,59,Racket,Wilson
+621,66,OtherSponsor,Tide
+622,66,OtherSponsor, Nike
+623,66,OtherSponsor, Ralph Lauren
+624,66,OtherSponsor, Kraft
+625,66,OtherSponsor, Electronic Arts
+626,66,OtherSponsor, Lacoste
+627,66,Apparel,EleVen
+628,66,Shoes,K-Swiss
+629,66,Racket,Wilson
+630,69,OtherSponsor,Citizen
+631,69,OtherSponsor, Six Star Pro Nutrition
+632,69,OtherSponsor, Red Bull
+633,69,OtherSponsor, American Express
+634,69,OtherSponsor, Esurance
+635,69,Apparel,Nike
+636,69,Shoes,Nike
+637,69,Racket,Wilson
+638,82,OtherSponsor,KIA
+639,82,OtherSponsor, Banca Santander
+640,82,Apparel,Fila
+641,82,Shoes,Fila
+642,82,Racket,ProKennex
+643,85,OtherSponsor,Klubb
+644,85,OtherSponsor, BN Nutrition
+645,85,OtherSponsor, PRC Capital
+646,85,Apparel,Lacoste
+647,85,Shoes,Asics
+648,85,Racket,Tecnifibre
+649,91,OtherSponsor,Hublot
+650,91,OtherSponsor, Old Pilot�s Gin
+651,91,Apparel,Asics
+652,91,Shoes,Asics
+653,91,Racket,Wilson
+654,92,OtherSponsor,Ziggo Sport
+655,92,OtherSponsor, Knaken
+656,92,Apparel,Indian Maharadja
+657,92,Shoes,Asics
+658,92,Racket,Babolat
+659,93,OtherSponsor,Illuviu
+660,93,OtherSponsor, Rado
+661,93,Apparel,K-Swiss
+662,93,Shoes,K-Swiss
+663,93,Racket,Babolat
+664,72,OtherSponsor,The Arctic Group
+665,72,OtherSponsor, Lundin Energy Nor
+666,72,Apparel,Yonex
+667,72,Shoes,Yonex
+668,72,Racket,Yonex
+669,94,OtherSponsor,Gillette
+670,94,OtherSponsor, Powerade
+671,94,OtherSponsor, Banco de Chile
+672,94,Apparel,EA7
+673,94,Shoes,Asics
+674,94,Racket,Wilson
+675,100,OtherSponsor,TAG Heuer
+676,100,OtherSponsor, Biosteel
+677,100,OtherSponsor, SpiderTech
+678,100,OtherSponsor, Br�st
+679,100,Apparel,Nike
+680,100,Shoes,Nike
+681,100,Racket,Yonex
+682,101,OtherSponsor,Voltaren
+683,101,OtherSponsor, Peugeot
+684,101,OtherSponsor, Disney+
+685,101,OtherSponsor, Caviahue Creams
+686,101,OtherSponsor, High Impact Athletes
+687,101,Apparel,Fila
+688,101,Shoes,Fila
+689,101,Racket,Head
+690,102,OtherSponsor,Bank of Austria
+691,102,OtherSponsor, Duravit
+692,102,OtherSponsor, Technogym
+693,102,Apparel,Adidas
+694,102,Shoes,Adidas
+695,102,Racket,Babolat
+696,106,OtherSponsor,Own logo
+697,106,OtherSponsor,  LaceClips
+698,106,Apparel,EA7
+699,106,Shoes,K-Swiss
+700,106,Racket,Babolat
+701,111,OtherSponsor,Tag Heuer
+702,111,OtherSponsor, Nestle� Nesquik
+703,111,Apparel,Nike
+704,111,Shoes,Nike
+705,111,Racket,Yonex
+706,114,OtherSponsor,Rolex
+707,114,OtherSponsor, H�agen-Dazs 
+708,114,Apparel,Nike
+709,114,Shoes,Nike
+710,114,Racket,Wilson
+711,123,OtherSponsor,Gucci
+712,123,OtherSponsor, Rolex
+713,123,OtherSponsor, Lavazza
+714,123,OtherSponsor, Fastweb
+715,123,OtherSponsor, Parmigiano Reggiano
+716,123,Apparel,Nike
+717,123,Shoes,Nike
+718,123,Racket,Head
+719,73,OtherSponsor,Christopher Cloos
+720,73,OtherSponsor, Gerald Charles
+721,73,OtherSponsor, Motorola
+722,73,OtherSponsor, MealPro
+723,73,Apparel,Uomo Sport
+724,73,Shoes,Wilson
+725,73,Racket,Wilson
+726,126,OtherSponsor,MEO
+727,126,OtherSponsor, Millenium BCP
+728,126,OtherSponsor, Isdin
+729,126,OtherSponsor, Centro Porsche Braga 
+730,126,Apparel,Joma
+731,126,Shoes,Joma
+732,126,Racket,Wilson
+733,127,OtherSponsor,Tamko
+734,127,OtherSponsor, Hotel Planner
+735,127,OtherSponsor, Ebix
+736,127,OtherSponsor, Runa
+737,127,Apparel,Fila
+738,127,Shoes,Fila
+739,127,Racket,Prince
+740,128,OtherSponsor,Instinct
+741,128,OtherSponsor, Flash
+742,128,Apparel,Lotto
+743,128,Shoes,Lotto
+744,128,Racket,Tecnifibre
+745,129,OtherSponsor,BNP Paribas (Team Jeunes Talents)
+746,129,OtherSponsor, Fort� Pharma
+747,129,OtherSponsor, Rolex
+748,129,OtherSponsor, ALL IN GROUP
+749,129,Apparel,Adidas
+750,129,Shoes,Adidas
+751,129,Racket,Babolat
+752,130,OtherSponsor,Cadillac
+753,130,OtherSponsor, Armani
+754,130,OtherSponsor, VTB Bank
+755,130,OtherSponsor, Lavazza
+756,130,OtherSponsor, Rolex
+757,130,Apparel,Nike
+758,130,Shoes,Nike
+759,130,Racket,Wilson
+760,131,OtherSponsor,Jaguar
+761,131,OtherSponsor, Japan Airlines
+762,131,OtherSponsor, Asahi
+763,131,OtherSponsor, Proctor and Gamble
+764,131,OtherSponsor, Weidec
+765,131,OtherSponsor, Airweave
+766,131,OtherSponsor, NTT
+767,131,Apparel,Uniqlo
+768,131,Shoes,Nike
+769,131,Racket,Wilson
+770,133,OtherSponsor,British Airways
+771,133,OtherSponsor, Evian
+772,133,Apparel,Nike
+773,133,Shoes,Nike
+774,133,Racket,Wilson
+775,137,OtherSponsor,KIA
+776,137,OtherSponsor, Parmacotto
+777,137,OtherSponsor, Rolex
+778,137,OtherSponsor, Inkospor
+779,137,OtherSponsor, Bolon
+780,137,OtherSponsor, Intesa San Paolo
+781,137,Apparel,Nike
+782,137,Shoes,Nike
+783,137,Racket,Head
+784,138,OtherSponsor,Pulsee
+785,138,OtherSponsor, Capri Watch
+786,138,OtherSponsor, Reale Mutua
+787,138,OtherSponsor, Aceto Varvello
+788,138,OtherSponsor, Valmora Acqua Minerale
+789,138,OtherSponsor, Lynx Group
+790,138,Apparel,Mizuno
+791,138,Shoes,Mizuno
+792,138,Racket,Wilson
+793,139,OtherSponsor,Rolex
+794,139,OtherSponsor, Matrix
+795,139,Apparel,Le Coq Sportif
+796,139,Shoes,Le Coq Sportif
+797,139,Racket,Babolat
+798,143,OtherSponsor,Ebix
+799,143,OtherSponsor, Capri
+800,143,Apparel,Head
+801,143,Shoes,Head
+802,143,Racket,Head
+803,144,OtherSponsor,MOL Nyrt
+804,144,OtherSponsor, Red Bull
+805,144,OtherSponsor, Appeninn Holding
+806,144,OtherSponsor, Hovany Csoport 
+807,144,Apparel,Hydrogen
+808,144,Shoes,Nike
+809,144,Racket,Yonex
+810,147,OtherSponsor,Aviva
+811,147,OtherSponsor, Rolex
+812,147,OtherSponsor, Canada Goose
+813,147,OtherSponsor, Rogers
+814,147,OtherSponsor, Jaguar
+815,147,OtherSponsor, Coco Fusion
+816,147,Apparel,New Balance
+817,147,Shoes,New Balance
+818,147,Racket,Wilson
+819,148,OtherSponsor,Beats By Dre
+820,148,OtherSponsor, Beyond Meat
+821,148,OtherSponsor, Nick Kyrgios Foundation
+822,148,Apparel,Nike
+823,148,Shoes,Nike
+824,148,Racket,Yonex
+825,150,OtherSponsor,Hublot
+826,150,OtherSponsor, Peugeot
+827,150,OtherSponsor, Jacob Creek
+828,150,OtherSponsor, ANZ Bank
+829,150,OtherSponsor, LEMERO
+830,150,Apparel,Lacoste
+831,150,Shoes,Asics
+832,150,Racket,Head
+833,152,OtherSponsor,Peugeot
+834,152,OtherSponsor, ISDIN
+835,152,Apparel,Joma
+836,152,Shoes,Joma
+837,152,Racket,Wilson
+838,155,OtherSponsor,KIA
+839,155,OtherSponsor, Telef�nica
+840,155,OtherSponsor, Richard Mille
+841,155,OtherSponsor, Mapfre
+842,155,OtherSponsor, Amstel Ultra
+843,155,OtherSponsor, Banco Santander
+844,155,OtherSponsor, Richard Mille
+845,155,Apparel,Nike
+846,155,Shoes,Nike
+847,155,Racket,Babolat
+848,160,OtherSponsor,Barilla
+849,160,OtherSponsor, Credit Suisse
+850,160,OtherSponsor, Jura
+851,160,OtherSponsor, Lindt
+852,160,OtherSponsor, Lvmh
+853,160,OtherSponsor, Mercedes-Benz
+854,160,OtherSponsor, National Suisse
+855,160,OtherSponsor, On
+856,160,OtherSponsor, Rinowa
+857,160,OtherSponsor, Rolex
+858,160,OtherSponsor, Sunrise Communications
+859,160,OtherSponsor, Svizzera Turismo
+860,160,OtherSponsor, Uniqlo
+861,160,Apparel,Uniqlo
+862,160,Shoes,On
+863,160,Racket,Wilson
+864,162,OtherSponsor,ROKiT
+865,162,OtherSponsor, Carbonadi
+866,162,Apparel,Fila
+867,162,Shoes,Fila
+868,162,Racket,Babolat
+869,164,OtherSponsor,Elroel
+870,164,OtherSponsor, Delta
+871,164,OtherSponsor, Flex
+872,164,Apparel,Fila
+873,164,Shoes,Fila
+874,164,Racket,Head
+875,166,OtherSponsor,ROKiT
+876,166,OtherSponsor, Audemars Piguet
+877,166,OtherSponsor, Jetcraft Evian
+878,166,OtherSponsor, Fromm
+879,166,OtherSponsor, Swiss Education Group
+880,166,Apparel,Yonex
+881,166,Shoes,Yonex
+882,166,Racket,Yonex
+883,74,OtherSponsor,Rolex
+884,74,OtherSponsor, Waterdrop
+885,74,OtherSponsor, ReKTGlobal
+886,74,Apparel,Nike
+887,74,Shoes,Nike
+888,74,Racket,Head
+889,174,OtherSponsor,Kits
+890,174,OtherSponsor, Soroc
+891,174,OtherSponsor, DieWithZero
+892,174,Apparel,Ionik
+893,174,Shoes,Asics
+894,174,Racket,Wilson
