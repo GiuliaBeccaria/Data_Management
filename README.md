@@ -15,4 +15,6 @@ The report outlines the data acquisition process, including sponsor data, perfor
 
 The report concludes with the construction of a relational database to integrate the collected data for further analysis and the creation of an interactive Tableau infographic to summarize the findings.
 
+Collaborators: Marta Bernardelli, Alessia Perri
+
 Result: 30/30
